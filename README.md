@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Saumil Shah</h1>
 <h3 align="center">a computational biologist focusing on mechanistic modeling and have 4+ years of experience in translational medicine, quantitative systems pharmacology, research software development, and data science</h3>
 
-- 🔭 I’m currently working at **the Max Planck Institute for Evolutionary biology**
+- 🔭 I’m currently working at **Boehringer Ingelheim Pharma GmbH & Co. KG**
 
-- 👨‍💻 All of my projects are available at [https://gitlab.gwdg.de/shah](https://gitlab.gwdg.de/shah)
+- 👨‍💻 Projects are in corresponding repositories.
 
-- 📫 How to reach me **shah@evolbio.mpg.de**
+- 📫 How to reach me **saumilxshah@pm.me**
 
 - 📄 Know about my experiences [coming soon](coming soon)
 
